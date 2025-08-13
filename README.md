@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Donation Platform Banner" width="100%">
+</p>
+
+
 # 🏆 Donation Platform Backend
 
 A **Spring Boot 3.x** backend for a community-driven **Local Donation Exchange Platform**.  
